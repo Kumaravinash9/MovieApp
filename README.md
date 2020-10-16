@@ -1,6 +1,6 @@
 # MovieApp
 
-**This is an MovieApp where anyone can  get the all info related to the movie like IMDB Rating,Date of Release,Posters,About and etc.**
+**This is an MovieApp where anyone can  get the all info related to the movie like Imdb Rating, Date of Release, Posters**
 
 
 ## Getting Started
