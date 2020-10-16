@@ -1,6 +1,13 @@
 # MovieApp
 
-**This is an MovieApp where anyone can  get the all info related to the movie like Imdb Rating, Date of Release, Posters**
+**This is an MovieApp where anyone can  get the all info related to the movie like Imdb Rating, Date of Release, Posters.**
+
+**Here is the Some ScreensShot of An UI of an MovieApp**
+
+
+![FlutterMovieApp4](https://user-images.githubusercontent.com/64456168/96303385-ecea4380-1017-11eb-95d9-1729f503e16a.jpeg)
+![FlutterMovieApp2](https://user-images.githubusercontent.com/64456168/96303356-e2c84500-1017-11eb-8a9d-6729a3bdf974.jpeg)
+![FlutterMovieApp4](https://user-images.githubusercontent.com/64456168/96303385-ecea4380-1017-11eb-95d9-1729f503e16a.jpeg)
 
 
 ## Getting Started
