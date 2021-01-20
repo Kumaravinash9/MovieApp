@@ -7,13 +7,16 @@
 
 ![FlutterMovieApp4](https://user-images.githubusercontent.com/64456168/96303385-ecea4380-1017-11eb-95d9-1729f503e16a.jpeg)
 
-![](flutter_01.png)
+<img src="flutter_01.png" width="550" height="1000">
+
 
 
 ![FlutterMovieApp2](https://user-images.githubusercontent.com/64456168/96303356-e2c84500-1017-11eb-8a9d-6729a3bdf974.jpeg)
 
-![](flutter_02.png)
+<img src="flutter_02.png" width="550" height="1000">
+
 
 ![flutterMovieApp1](https://user-images.githubusercontent.com/64456168/96303345-de039100-1017-11eb-9438-4da222e2dbcf.jpeg)
 
-![](flutter_05.png)
+<img src="flutter_05.png" width="550" height="1000">
+
