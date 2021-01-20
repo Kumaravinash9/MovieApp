@@ -7,7 +7,7 @@
 
 ![FlutterMovieApp4](https://user-images.githubusercontent.com/64456168/96303385-ecea4380-1017-11eb-95d9-1729f503e16a.jpeg)
 
-<img src="flutter_01.png" width="550" height="1000">
+
 
 
 
